@@ -134,7 +134,7 @@ security, scalability, and clean backend design rather than simple CRUD.
 
 Swagger UI is available at:
 
-http://localhost:8080/swagger-ui
+http://localhost:8080/swagger-ui/index.html
 
 Supports **JWT authentication directly from the UI**.
 
